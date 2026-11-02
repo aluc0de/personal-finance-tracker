@@ -1,8 +1,5 @@
 # PERSONAL FINANCE TRACKER
 
-#### Video Demo: https://youtu.be/L8ZRuknKNRU
-
-
 #### DESCRIPTION
 
 If you're reading this, you're probably grading my final project for CS50P, or maybe you just stumbled upon this repository. Either way, welcome!
